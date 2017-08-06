@@ -6,4 +6,12 @@ person.gender = "male";
 
 console.log(person);
 
-alert("Age of the person is " +  person.age);
+var student = {
+	age : 5,
+	name : "adwiti",
+	gender : "female"
+}
+
+alert("Age of the person is " + person.age + " student is " + student.name);
+
+console.log(student);
