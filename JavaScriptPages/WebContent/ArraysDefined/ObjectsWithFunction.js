@@ -11,4 +11,6 @@ var person = {
 	}
 }
 
+person.age = 12;
+
 console.log("Age is " + person.myage());
